@@ -1,0 +1,19 @@
+h1, h2 {
+  font-size: 50px;
+  text-align: center;
+  font-family: Lobster, serif;
+}
+
+body{
+  color: black;
+  font-family: Tangerine, serif;
+  font-size: 50px;
+  background-image: url("https://www.surfertoday.com/images/stories/kelly-slater-tube-riding.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+img {
+  width: 200px;
+}
